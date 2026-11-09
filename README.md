@@ -6,6 +6,8 @@ https://github.com/956tris/MetroFuse
 
 https://www.canvasdownloader.com/
 
+[RYMD-MaxMusic - Bring Back Dislikes On iOS YouTube Music and adds an auto skip feature, esclusive of MaxMusic](https://github.com/Mark02-2012/RYMD-MaxMusic)
+
 # YTMusicUltimate
 <p align="center">
 <img src=https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true) />
